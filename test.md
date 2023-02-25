@@ -1,6 +1,6 @@
 ---
 title: 'Hello world!'
-image: 'https://i.imgur.com/B2QGwaa.png'
+image: 'https://imgur.com/a/B2QGwaa'
 tags: 'devlog, updates'
 date: '2023-02-025'
 ---
