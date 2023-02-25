@@ -1,8 +1,8 @@
 ---
 title: 'Hello world!'
-image: 'https://i.imgur.com/yumDEQt.png'
+image: 'https://prnt.sc/0sgZeyFOhnfB'
 tags: 'devlog, updates'
-date: '2023-02-01'
+date: '2023-02-025'
 ---
 
 It's **00:50** now, and I'm developing the site. 
