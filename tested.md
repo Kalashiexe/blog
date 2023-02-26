@@ -2,7 +2,7 @@
 title: 'Hello world!'
 image: 'https://i.imgur.com/uJwqhxX.png'
 tags: 'devlog, updates'
-date: '2023-02-025'
+date: '2023-02-027'
 ---
 
 It's **00:50** now, and I'm developing the site. 
